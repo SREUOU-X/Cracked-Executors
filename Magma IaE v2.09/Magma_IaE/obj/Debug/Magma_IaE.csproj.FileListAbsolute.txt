@@ -1,0 +1,5 @@
+C:\Users\xrist\OneDrive\Εικόνες\Magma IaE v2.09\Magma_IaE\obj\Debug\Magma_IaE.csproj.AssemblyReference.cache
+C:\Users\xrist\OneDrive\Εικόνες\Magma IaE v2.09\Magma_IaE\obj\Debug\Magma_IaE.csproj.SuggestedBindingRedirects.cache
+C:\Users\xrist\OneDrive\Εικόνες\Magma IaE v2.09\Magma_IaE\obj\Debug\ScriptHub_v3\_4\_1b\App.g.cs
+C:\Users\xrist\OneDrive\Εικόνες\Magma IaE v2.09\Magma_IaE\obj\Debug\Magma_IaE_MarkupCompile.cache
+C:\Users\xrist\OneDrive\Εικόνες\Magma IaE v2.09\Magma_IaE\obj\Debug\Magma_IaE_MarkupCompile.lref
